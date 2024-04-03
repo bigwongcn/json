@@ -134,9 +134,7 @@
       "jar": "https://agit.ai/leevi/PiG/raw/branch/master/lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
-
-    
-    {
+{
       "key": "酷看",
       "name": "💡酷看┃秒播",
       "type": 3,
