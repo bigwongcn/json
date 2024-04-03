@@ -11,6 +11,17 @@
       "quickSearch": 0,
       "filterable": 0
     },
+	{ 
+    			"key": "文才秒", 
+     			"name": " | 文才推荐", 
+    			"type": 3, 
+     			"api": "csp_XBPQ", 
+     			"searchable": 1, 
+     			"quickSearch": 1, 
+     			"filterable": 0, 
+     			"ext": "./文才.json", 
+  			"jar": "./XBPQ.jar"      
+  		},  
     {
       "key":"XBPQ_文才",
       "name":"文才|XBPQ",
